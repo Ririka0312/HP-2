@@ -5,11 +5,6 @@
 *::after {
   box-sizing: border-box;
 }
-body,
-h1,
-h2,
-h3,
-p,
 ul,
 li,
 form,
@@ -84,10 +79,10 @@ ul {
   max-width: 672px;
   margin: 0 auto;
   color: #757575;
-  padding: 32px;
+  padding: 16px;
 }
 .section-description p {
-  margin-bottom: 16px;
+  margin-bottom: 4px;
 }
 
 /*プロフィールアイコン*/
@@ -110,6 +105,5 @@ ul {
 .section-body {
   padding: 32px;
 }
-
 
 
